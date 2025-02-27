@@ -301,7 +301,7 @@ document.addEventListener('keydown', event => {
   }
 });
 
-let lastTime = 0;
+
 
 function init() {
   resetPiece();
